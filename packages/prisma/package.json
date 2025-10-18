@@ -7,14 +7,14 @@
     "./client": "./src/index.ts"
   },
   "devDependencies": {
-    "@repo/typescript-config": "workspace:*"
+    "@repo/typescript-config": "workspace:*",
+    "prisma": "^6.17.1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@prisma/client": "6.16.2",
-    "prisma": "^6.16.2"
+    "@prisma/client": "6.16.2"
   }
 }
